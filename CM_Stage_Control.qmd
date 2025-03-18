@@ -1,0 +1,48 @@
+---
+title: "Controlling the Stage"
+format: html
+---
+:::::: grid
+::: g-col-2
+:::
+
+::: g-col-8
+![](images/labeled_game_controller.png){width="600px"}
+:::
+
+::: g-col-2
+:::
+::::::
+
+:::::: grid
+::: g-col-2
+:::
+
+::: g-col-8
+|  |  |
+|:---------------------:|------------------------------------------------|
+| **Joystick** | Controls the movement of the stage. Does not contribute to speed control. Push the joystick all the way in one direction at a time to move the stage. Movement of the x- and y-axes are controlled in one mode, the z-axis is controlled in a second mode. |
+| **Start** | Switches between the two joystick modes: x/y and z (z-mode only uses the vertical axis of the joystick). Hold for one second to toggle mode. |
+| **Select** | Moves the stage to the “home” position. Hold for one second to reset the stage position. |
+:::
+
+::: g-col-2
+:::
+::::::
+
+:::::: grid
+::: g-col-4
+:::
+
+::: g-col-4
+|       |                   |
+|:-----:|:-----------------:|
+| **Y** | Motor Speed 27.5% |
+| **X** | Motor Speed 62.5% |
+| **A** | Motor Speed 100%  |
+| **B** | Toggle LED On/Off |
+:::
+
+::: g-col-4
+:::
+::::::

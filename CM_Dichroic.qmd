@@ -1,0 +1,14 @@
+---
+title: "Dichroic Cube"
+format: html
+---
+
+1.  Direct the beam path toward the dichroic cube; if necessary, adjust the mirror by adjusting the set screws.
+
+![](images/dichroic_comp.png)
+
+::: column-margin
+**Tip:** Use the same paper method as that used in the beam collimation step 3 to ensure that the beam path stays straight.
+:::
+
+**Think about it:** Why does adjusting the excitation cube lens changes the diameter of the beam path?

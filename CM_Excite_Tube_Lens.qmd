@@ -1,0 +1,12 @@
+---
+title: "Excitation Tube Lens Use"
+format: html
+---
+
+1.  Direct the beam path through an f200 lens; if necessary, center the lens by adjusting the set screws.
+
+![](images/excite_comp.png)
+
+::: column-margin
+**Tip:** Use the same alignment procedure as that used in the beam collimation
+:::

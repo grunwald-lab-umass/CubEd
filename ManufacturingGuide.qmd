@@ -1,0 +1,6 @@
+---
+title: "CubEd Manufacturing Guide"
+format: html
+---
+
+[{{< bi file-earmark-pdf >}} Manufacturing Guide PDF](user_docs/CubEd_AssemblyGuide.pdf)

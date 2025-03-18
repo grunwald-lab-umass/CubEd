@@ -1,0 +1,18 @@
+---
+title: "Mirror Alignment"
+format: html
+---
+
+Mirror Alignment Mirrors can be used to direct the beam. The CubeEd mirrors are orientated within the cube allow a 90° redirection, give or take with adjustments; i.e. the mirror cubes enable the beam to travel around corners.
+
+Horizontal mirrors can be used to direct the beam path 90° left or right.
+
+Vertical mirrors can be used to direct the beam path 90° up or down.
+
+1.  Adjust the mirror angle with the set screws to keep the beam path on the same plane.
+
+::: column-margin
+**Tip:** Use the same paper method as that used in [step 3](CM_Beam_Collim.qmd "To determine whether the beam is centered, place a cube on the other side of the paper with light behind it to act as a target for centering the beam path.") of [Beam Collimation](CM_Beam_Collim.qmd) to ensure that the beam path stays straight.
+:::
+
+![](images/mirror_align_comp.png)

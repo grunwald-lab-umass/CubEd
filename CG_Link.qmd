@@ -1,0 +1,6 @@
+---
+title: "Cube Game"
+editor: visual
+---
+
+Try out the [Cube Game](https://rise.articulate.com/share/RMtZ-_tci_ns4NoRFMi8tlLuHAbRgTXH#/){target="”_blank”"} (Prototype).

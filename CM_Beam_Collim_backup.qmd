@@ -1,0 +1,37 @@
+---
+title: "Beam Collimation"
+format: html
+---
+
+:::::::::: {.grid style="--bs-columns: 2 --bs-rows: 2"}
+:::::: g-col
+::::: g-row
+::: {layout-nrow="2"}
+![](images/add_30lens_20241209.png)
+
+![](images/beam_coll_compare.png)
+:::
+
+::: g-row
+![](images/dist_coll_compare.png)
+:::
+:::::
+::::::
+
+::::: g-col
+::: g-row
+1.  Loosen the set screws of an f30 lens cube a little bit. Slide the lens back on its rails to be as close to the laser as possible. This is easier from the bottom, while holding the cube. Place an f30 lens directly in the laser path.
+2.  Use the set screws to center the lens as close as possible to the beam path.
+3.  To determine whether the beam is centered, place a cube on the other side of the paper with light behind it to act as a target for centering the beam path.
+4.  Place an f200 lens 200 mm away[^1] from the f30 lens.
+:::
+
+::: g-row
+5.  Center the f200 lens using the same method used to center the f30 lens in (1–3).
+6.  Slide the f200 lens back and forth along the cube rails until it focuses the beam path on the target. The goal is for the emitted light waves to be aligned and parallel—*collimated*. **Note:** You may have to adjust the f30 lens on its rails as well to get the best alignment.
+7.  Collimation of the beam path can be confirmed by moving a piece of paper closer to and further away from the beam path. The circle of collimated light striking the paper will not appear to shrink or grow as the target moves closer or further away from the lens. **Note:** The alignment methods employed in this section are used frequently throughout the protocols in this manual.
+:::
+:::::
+::::::::::
+
+[^1]: ![](images/FourierOpticsDiagram_20241210.png) The sides of each cube measures 50 mm. Therefore the distance between the center of 2 adjacent cubes is 50 mm. To place a lens 200 mm away, one considers the 50 mm contributed by the 2 lens cubes and adds 150 mm or 3 cube lengths of distance.

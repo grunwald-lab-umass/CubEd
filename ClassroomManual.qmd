@@ -1,0 +1,17 @@
+---
+title: "CubEd Classroom Manual"
+format: html
+---
+
+<p>
+
+</p>
+
+::: {#desktop-text}
+:::
+
+::: {#mobile-text}
+If you are viewing this on mobile or in a small window, use the {{< bi layout-text-sidebar-reverse >}} icon above to open the side navigation to jump between sections or use the {{< bi arrow-left >}} and {{< bi arrow-right >}} at the bottom of each page to move linearly between the sections.
+:::
+
+Click to download the PDF version of the [{{< bi file-earmark-pdf >}} Classroom Manual PDF](./user_docs/CubEd_StudentManual.pdf)

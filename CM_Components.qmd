@@ -1,0 +1,19 @@
+---
+title: "Components"
+format: html
+---
+
+## Minimum Requirements
+
+-   23× Shielded cubes
+-   2× Support cubes
+-   2× Horizontal mirror cube
+-   1× Vertical mirror cube
+-   1× Light source assembly
+-   1× Dichroic cube
+-   1× 0.5” cube containing an f30 lens
+-   3× 1” cube containing an f200+ lens
+-   2× Targets (at least one per type)
+-   1× Objective cube
+-   1× Camera cube
+-   1× xyz-Stage

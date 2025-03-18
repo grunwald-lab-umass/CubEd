@@ -1,0 +1,61 @@
+---
+title: "Emission Beam Path"
+format: html
+---
+
+::: column-margin
+**Note:** The photos in this section were taken of a fully constructed CubEd. Add each optical component sequentially, checking the beam path after each addition.
+:::
+
+<p>
+
+</p>
+
+::::: {.grid style="--bs-rows: 1; --bs-columns: 3;"}
+::: {.g-start-1 style="grid-row: 1;"}
+![](images/emission_beam_manual_mirror.png)
+:::
+
+::: {.g-start-2 .g-col-2 .align-self-center style="grid-row: 1"}
+1.  Let the beam pass through the filter cube and onto a vertical mirror. Adjust the mirror angle via its set screws to maintain a parallel beam path, directing the path forward.
+:::
+:::::
+
+::::: {.grid style="--bs-rows: 1; --bs-columns: 3;"}
+::: {.g-start-1 style="grid-row: 1;"}
+![](images/emission_beam_manual_lens.png)
+:::
+
+::: {.g-start-2 .g-col-2 .align-self-center style="grid-row: 1"}
+2.  Place a f200 lens in front of the beam. Center the lens using the set screws.
+
+3.  Confirm the alignment of the beam path as before.
+:::
+:::::
+
+::: column-margin
+**Tip:** Use the same alignment procedure as that used in the beam collimation.
+:::
+
+::::: {.grid style="--bs-rows: 1; --bs-columns: 3;"}
+::: {.g-start-1 style="grid-row: 1;"}
+![](images/camera_paper_manual.png)
+:::
+
+::: {.g-start-2 .g-col-2 .align-self-center style="grid-row: 1"}
+4.  Place the camera so the camera sensor is 200 mm from the f200 lens.
+:::
+:::::
+
+::: column-margin
+**Tip:** Use the same paper method as that used in the beam collimation step 3 to ensure that the beam path stays straight.
+:::
+
+::::: {.grid style="--bs-rows: 1; --bs-columns: 3;"}
+::: {.g-start-1 style="grid-row: 1;"}
+![](images/camera_manual.png)
+:::
+
+::: {.g-start-2 .g-col-2 style="grid-row: 1"}
+:::
+:::::
