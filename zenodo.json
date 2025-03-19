@@ -1,0 +1,50 @@
+{
+    "upload_type": "other",
+    "version": "1.0.0",
+
+    "creators": [
+        {
+            "orcid": "0000-0002-5771-5694",
+            "affiliation": ["RNA Therapeutics Institute, UMass Chan Medical School, Worcester, MA, USA",
+            "Department of Biology, Technical University of Darmstadt, Darmstadt, Germany"],
+            "name": "Hammer, Mathias"
+        },
+        {
+            "orcid": "0000-0001-6045-6104",
+            "affiliation": "RNA Therapeutics Institute, UMass Chan Medical School, Worcester, MA, USA",
+            "name": "Tourtellotte, Jocelyn"
+        },
+        {
+            "orcid": "0009-0002-8937-2232",
+            "affiliation": "RNA Therapeutics Institute, UMass Chan Medical School, Worcester, MA, USA",
+            "name": "Hormann, Colton"
+        },
+        {
+            "orcid": "0000-0002-2319-8262",
+            "affiliation": "RNA Therapeutics Institute, UMass Chan Medical School, Worcester, MA, USA",
+            "name": "Flemming, Selene"
+        },
+        {
+            "affiliation": "RNA Therapeutics Institute, UMass Chan Medical School, Worcester, MA, USA",
+            "name": "Tran, Brian"
+        },
+        {
+            "affiliation": "Instructional Design IT, UMass Chan Medical School, Worcester, MA, USA",
+            "name": "Rong, Hui"
+        },
+        {
+            "orcid": "0000-0001-9067-804X",
+            "affiliation": "RNA Therapeutics Institute, UMass Chan Medical School, Worcester, MA, USA",
+            "name": "David Grunwald",
+            "type": "ContactPerson"
+        }
+    ],
+
+    "license": "CERN-OHL-P",
+
+    "title": "CubEd: a 3D printable fluorescence cube microscope optimized for classroom and teaching use.",
+
+    "keywords": ["fluorescence microscopy", "UC2", "modular", "teaching", "classroom", "education"],
+
+    "grants": [{"id":"10.13039/100000001::1917206"}]
+}
