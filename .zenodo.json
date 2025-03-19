@@ -4,10 +4,7 @@
     "creators": [
         {
             "orcid": "0000-0002-5771-5694",
-            "affiliation": [
-                "RNA Therapeutics Institute, UMass Chan Medical School, Worcester, MA, USA",
-                "Department of Biology, Technical University of Darmstadt, Darmstadt, Germany"
-            ],
+            "affiliation": "RNA Therapeutics Institute, UMass Chan Medical School, Worcester, MA, USA",
             "name": "Hammer, Mathias"
         },
         {
